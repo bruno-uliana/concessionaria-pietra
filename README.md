@@ -1,0 +1,1 @@
+Código de Concessionária como a professora Pietra pediu feito em python usando como base o arquivo livraria.py disponibilizado por ela e tendo Estruturas de condição, Tuplas, Dicionários, Funções, Match case e Interação com o usuário como ela pediu.
